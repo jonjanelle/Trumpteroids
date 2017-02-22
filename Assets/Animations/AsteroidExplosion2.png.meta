@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 5258a35e7343b924ba81e51b1c565155
+timeCreated: 1483033811
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AsteroidExplosion2_0
+    21300002: AsteroidExplosion2_1
+    21300004: AsteroidExplosion2_2
+    21300006: AsteroidExplosion2_3
+    21300008: AsteroidExplosion2_4
+    21300010: AsteroidExplosion2_5
+    21300012: AsteroidExplosion2_6
+    21300014: AsteroidExplosion2_7
+    21300016: AsteroidExplosion2_8
+    21300018: AsteroidExplosion2_9
+    21300020: AsteroidExplosion2_10
+    21300022: AsteroidExplosion2_11
+    21300024: AsteroidExplosion2_12
+    21300026: AsteroidExplosion2_13
+    21300028: AsteroidExplosion2_14
+    21300030: AsteroidExplosion2_15
+    21300032: AsteroidExplosion2_16
+    21300034: AsteroidExplosion2_17
+    21300036: AsteroidExplosion2_18
+    21300038: AsteroidExplosion2_19
+    21300040: AsteroidExplosion2_20
+    21300042: AsteroidExplosion2_21
+    21300044: AsteroidExplosion2_22
+    21300046: AsteroidExplosion2_23
+    21300048: AsteroidExplosion2_24
+    21300050: AsteroidExplosion2_25
+    21300052: AsteroidExplosion2_26
+    21300054: AsteroidExplosion2_27
+    21300056: AsteroidExplosion2_28
+    21300058: AsteroidExplosion2_29
+    21300060: AsteroidExplosion2_30
+    21300062: AsteroidExplosion2_31
+    21300064: AsteroidExplosion2_32
+    21300066: AsteroidExplosion2_33
+    21300068: AsteroidExplosion2_34
+    21300070: AsteroidExplosion2_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AsteroidExplosion2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 333.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 333.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 333.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 333.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 333.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 267.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 267.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 267.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 267.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 267.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 201.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 201.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 201.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 201.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 201.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 135.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 135.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 135.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 135.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 135.33334
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69.333336
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 69.333336
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 69.333336
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 69.333336
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 69.333336
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 69.333336
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.3333359
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3.3333359
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3.3333359
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3.3333359
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3.3333359
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsteroidExplosion2_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3.3333359
+        width: 66.666664
+        height: 66.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
